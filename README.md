@@ -6,6 +6,10 @@ Den Blog Beitrag finden Sie hier:
 
 https://www.inmodis.de/osint/eine-lokale-version-der-haveibeenpwned-datenbank-erstellen/
 
+Den Beitrag können Sie auch auf englisch lesen: 
+
+https://medium.com/analytics-vidhya/creating-a-local-version-of-the-haveibeenpwned-password-database-with-python-and-sqlite-918a7b6a238a
+
 
 
 
